@@ -8,6 +8,7 @@ if __name__ == '__main__':
         playing: str = input("Хотите ли вы сыграть? Введите 'Y' или 'N': ")
         match playing:
             case 'Y':
+                print("Игра начинается!")
                 ...
             case 'N':
                 print("Увидимся в следующий раз!")
