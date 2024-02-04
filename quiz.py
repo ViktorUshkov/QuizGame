@@ -4,12 +4,13 @@
 
 if __name__ == '__main__':
     print("Добро пожаловать в викторину!")
-    playing: str = input("Хотите ли вы сыграть? Введите 'Y' или 'N': ")
-    match playing:
-        case 'Y':
-            ...
-        case 'N':
-            print("Увидимся в следующий раз!")
-            quit()
-        case _:
-            ...
+    while True:
+        playing: str = input("Хотите ли вы сыграть? Введите 'Y' или 'N': ")
+        match playing:
+            case 'Y':
+                ...
+            case 'N':
+                print("Увидимся в следующий раз!")
+                quit()
+            case _:
+                print("Ваш ответ не ясен программе: нужно ввести либо 'Y', либо 'N'. Попробуйте ещё раз.")
