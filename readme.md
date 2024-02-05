@@ -15,3 +15,4 @@
 Пример работы программы
 
 ![Пример работы программы](https://github.com/ViktorUshkov/QuizGame/blob/master/example.JPG)
+
