@@ -12,4 +12,6 @@
 
 В случае ввода "N" программа выводит соответствующее сообщение и прекращает работу
 
-![Пример работы программы](https://github.com/ViktorUshkov/QuizGame/blob/master/example.JPG "Пример работы программы")
+Пример работы программы
+
+![Пример работы программы](https://github.com/ViktorUshkov/QuizGame/blob/master/example.JPG)
